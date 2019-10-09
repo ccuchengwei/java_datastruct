@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyFirstJavaProgram",
             "request": "launch",
             "mainClass": "MyFirstJavaProgram"
