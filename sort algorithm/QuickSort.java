@@ -2,7 +2,7 @@ import java.util.Arrays;
 public class QuickSort {
 
     public static void main(String []args) {
-       int [] Array = {9,6,5,3,1,2,4,7,8};
+       int [] Array = {9,6,5,11,3,1,2,4,7,8,10};
        int [] SortedArray = QuickSortFunc(Array, 0, Array.length - 1);
        System.out.println(Arrays.toString(SortedArray));
     }
